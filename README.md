@@ -4,7 +4,7 @@ Provided in attached PDF file
 # Public URL of Figma Design
 https://www.figma.com/file/1FPC4Za4zYbykC6suuh1Bm/My-COVID-19-App-Copy?node-id=0%3A1
 # Video
-Provided in this very GitHub repository
+https://drive.google.com/file/d/1LiljXjRd5dBfm2cgdZenVbF5x3pH-Aa6/view?usp=sharing
 # Top Five Desirable Functionalities of My COVID-19 App
 1. COVID-19 Case-Based Surveillance: Enrolling and tracking suspected cases
 2. Contact Registration: Strengthening active COVID-19 case detection through contact tracing activities such as identification
