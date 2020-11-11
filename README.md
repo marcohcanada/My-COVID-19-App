@@ -1,4 +1,10 @@
 # My-COVID-19-App
+# Features
+- Login
+- Signup
+- Forgot-Password
+- COVID-19 Statistics for both the country of Canada and the province of Ontario
+- COVID-19 Survival Guide
 # Screenshots
 Provided in attached PDF file
 # Public URL of Figma Design
