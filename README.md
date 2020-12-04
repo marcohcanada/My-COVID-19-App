@@ -12,8 +12,8 @@
 # Link to Word Document (in Case Word on Mac Brings Out "the Operation Is Cancelled" Error)
 https://sheridanc-my.sharepoint.com/:w:/g/personal/hidalgor_shernet_sheridancollege_ca/EfiRWRzl1jNOjpx5S9ronAcBqrLa0ZPie3tJEUbzKEwnNg?e=ig9vff
 # Screenshots
-Provided in attached "My COVID-19 App (Copy)" PDF file (Assignment 2)
-Provided in attached "My COVID-19 App (Copy) (Copy)" PDF file (Assignment 3)
+- Provided in attached "My COVID-19 App (Copy)" PDF file (Assignment 2)
+- Provided in attached "My COVID-19 App (Copy) (Copy)" PDF file (Assignment 3)
 # Public URL of Figma Design
 https://www.figma.com/file/1FPC4Za4zYbykC6suuh1Bm/My-COVID-19-App-Copy?node-id=0%3A1 (Assignment 2)
 https://www.figma.com/file/3POQ6Lz9LR4B9m4fRnG0jb/My-COVID-19-App-Copy-Copy?node-id=0%3A1 (Assignment 3)
