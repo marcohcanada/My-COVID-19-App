@@ -5,6 +5,10 @@
 - Forgot-Password
 - COVID-19 Statistics for both the country of Canada and the province of Ontario
 - COVID-19 Survival Guide
+-	Volunteer registering (Assignment 3)
+-	Seeking for help (Assignment 3)
+-	Job board for volunteers (Assignment 3)
+-	Contact registration for help-seekers (Assignment 3)
 # Link to Word Document (in Case Word on Mac Brings Out "the Operation Is Cancelled" Error)
 https://sheridanc-my.sharepoint.com/:w:/g/personal/hidalgor_shernet_sheridancollege_ca/EfiRWRzl1jNOjpx5S9ronAcBqrLa0ZPie3tJEUbzKEwnNg?e=ig9vff
 # Screenshots
