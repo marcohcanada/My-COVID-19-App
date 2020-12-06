@@ -9,7 +9,7 @@
 -	Seeking for help (Assignment 3)
 -	Job board for volunteers (Assignment 3)
 -	Contact registration for help-seekers (Assignment 3)
-# Link to Word Document (in Case Word on Mac Brings Out "the Operation Is Cancelled" Error)
+# Link to Assignment 2 Word Document (in Case Word on Mac Brings Out "the Operation Is Cancelled" Error)
 https://sheridanc-my.sharepoint.com/:w:/g/personal/hidalgor_shernet_sheridancollege_ca/EfiRWRzl1jNOjpx5S9ronAcBqrLa0ZPie3tJEUbzKEwnNg?e=ig9vff
 # Screenshots
 - Provided in attached "My COVID-19 App (Copy)" PDF file (Assignment 2)
